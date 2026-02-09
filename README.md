@@ -1,4 +1,10 @@
-# 🩶 Tech Stack
+# Sabyrka
+UI Designer · TypeScript Developer
+
+Focused on building clean, scalable frontend interfaces  
+with an emphasis on structure, clarity, and long-term maintainability.
+
+## 🩶 Tech Stack
 
 - <img src="https://img.shields.io/badge/Web Core-white?labelColor=black" alt="Web Core">
   <img src="https://img.shields.io/badge/-HTML5, CSS3, JavaScript (ES6+)-grey" alt="HTML5, CSS3, JavaScript (ES6+)">
