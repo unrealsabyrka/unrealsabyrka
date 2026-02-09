@@ -1,8 +1,9 @@
 # 🤍 Sabyrka
-UI Designer · TypeScript Developer
+
+### Designing and building thoughtful frontend interfaces
 
 Focused on building clean, scalable frontend interfaces  
-with an emphasis on structure, clarity, and long-term maintainability.
+with care for structure, clarity, and long-term maintainability.
 
 ## ⚪️ Tech Stack
 
