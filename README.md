@@ -31,5 +31,4 @@ with care for structure, clarity, and long-term maintainability.
 - <img src="https://img.shields.io/badge/Workflow-white?labelColor=black" alt="Workflow">
   <img src="https://img.shields.io/badge/-Git, GitHub, Vercel-grey" alt="Git, GitHub, Vercel">
 
-<br />
 Always open to thoughtful conversations on Telegram: [@unrealsabyrka](https://t.me/unrealsabyrka)
