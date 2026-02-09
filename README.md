@@ -1,2 +1,3 @@
 - <img src="https://img.shields.io/badge/Web Core-white?labelColor=black" alt="Web Core"> <img src="https://img.shields.io/badge/-HTML5, CSS3, JavaScript (ES6+)-grey" alt="HTML5, CSS3, JavaScript (ES6+)">
 - <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-TypeScript, Vite, Tailwind CSS, Sass (SCSS)-grey" alt="TypeScript, Vite, Tailwind CSS, Sass (SCSS)">
+- <img src="https://img.shields.io/badge/Code Quality-white?labelColor=black" alt="Code Quality"> <img src="https://img.shields.io/badge/-ESLint, Stylelint, Prettier-grey" alt="ESLint, Stylelint, Prettier">
