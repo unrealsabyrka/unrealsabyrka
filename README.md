@@ -3,4 +3,5 @@
 - <img src="https://img.shields.io/badge/React Ecosystem-white?labelColor=black" alt="React Ecosystem"> <img src="https://img.shields.io/badge/-React, React Router-grey" alt="React, React Router">
 - <img src="https://img.shields.io/badge/Vue Ecosystem-white?labelColor=black" alt="Vue Ecosystem"> <img src="https://img.shields.io/badge/-Vue 3, Vue Router, Pinia-grey" alt="Vue 3, Vue Router, Pinia">
 - <img src="https://img.shields.io/badge/Code Quality-white?labelColor=black" alt="Code Quality"> <img src="https://img.shields.io/badge/-ESLint, Stylelint, Prettier-grey" alt="ESLint, Stylelint, Prettier">
-- <img src="https://img.shields.io/badge/Code Quality-white?labelColor=black" alt="Code Quality"> <img src="https://img.shields.io/badge/-ESLint, Stylelint, Prettier-grey" alt="ESLint, Stylelint, Prettier">
+- <img src="https://img.shields.io/badge/Package managers-white?labelColor=black" alt="Package managers"> <img src="https://img.shields.io/badge/-npm, pnpm, yarn-grey" alt="npm, pnpm, yarn">
+- <img src="https://img.shields.io/badge/Workflow-white?labelColor=black" alt="Workflow"> <img src="https://img.shields.io/badge/-Git, GitHub, Vercel-grey" alt="Git, GitHub, Vercel">
