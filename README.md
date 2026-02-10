@@ -1,6 +1,6 @@
 # 🤍 Sabyrka
 
-### Designing and building thoughtful frontend interfaces
+### Designing and building thoughtful frontend interfaces.
 
 Focused on building clean, scalable frontend interfaces  
 with care for structure, clarity, and long-term maintainability.
