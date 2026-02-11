@@ -14,7 +14,7 @@ with care for structure, clarity, and long-term maintainability.
   <img src="https://img.shields.io/badge/-TypeScript, Vite, Tailwind CSS, Sass (SCSS), CSS Modules-grey" alt="TypeScript, Vite, Tailwind CSS, Sass (SCSS), CSS Modules">
 
 - <img src="https://img.shields.io/badge/React Ecosystem-white?labelColor=black" alt="React Ecosystem">
-  <img src="https://img.shields.io/badge/-React, React Router-grey" alt="React, React Router">
+  <img src="https://img.shields.io/badge/-React, Next.js, React Router, Zustand-grey" alt="React, Next.js, React Router, Zustand">
 
 - <img src="https://img.shields.io/badge/Vue Ecosystem-white?labelColor=black" alt="Vue Ecosystem">
   <img src="https://img.shields.io/badge/-Vue 3, Vue Router, Pinia-grey" alt="Vue 3, Vue Router, Pinia">
