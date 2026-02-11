@@ -7,7 +7,7 @@
      <img src="./assets/2.png" /> 
     </a>
   </div>
-  <div style="display: flex; gap: 12px;">
+  <div style="display: flex; gap: 16px;">
     <a href="https://sabyrka-portfolio.onrender.com/">
      <img src="./assets/3.png" height="240" /> 
     </a>
