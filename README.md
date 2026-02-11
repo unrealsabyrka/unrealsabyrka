@@ -1,10 +1,10 @@
 <div style="display: flex; gap: 10px;">
   <div style="display: flex; gap: 10px;">
     <a href="https://sabyrka-portfolio.onrender.com/">
-     <img src="./assets/1.png" height="200" /> 
+     <img src="./assets/1.png" height="190" /> 
     </a>
     <a href="https://sabyrka-portfolio.onrender.com/">
-     <img src="./assets/2.png" height="200" /> 
+     <img src="./assets/2.png" height="190" /> 
     </a>
   </div>
   <div style="display: flex; gap: 12px;">
