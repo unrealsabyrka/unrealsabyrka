@@ -17,7 +17,7 @@ with care for structure, clarity, and long-term maintainability.
   <img src="https://img.shields.io/badge/-React, Next.js, React Router, Zustand-grey" alt="React, Next.js, React Router, Zustand">
 
 - <img src="https://img.shields.io/badge/Vue Ecosystem-white?labelColor=black" alt="Vue Ecosystem">
-  <img src="https://img.shields.io/badge/-Vue 3, Vue Router, Pinia-grey" alt="Vue 3, Vue Router, Pinia">
+  <img src="https://img.shields.io/badge/-Vue 3, Nuxt 4, Vue Router, Pinia-grey" alt="Vue 3, Nuxt 4, Vue Router, Pinia">
 
 - <img src="https://img.shields.io/badge/Data & API-white?labelColor=black" alt="Data & API">
   <img src="https://img.shields.io/badge/-REST, Fetch API, Axios-grey" alt="REST, Fetch API, Axios">
