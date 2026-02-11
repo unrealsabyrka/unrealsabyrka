@@ -25,9 +25,6 @@ with care for structure, clarity, and long-term maintainability.
 - <img src="https://img.shields.io/badge/Code Quality-white?labelColor=black" alt="Code Quality">
   <img src="https://img.shields.io/badge/-ESLint, Stylelint, Prettier-grey" alt="ESLint, Stylelint, Prettier">
 
-- <img src="https://img.shields.io/badge/Testing-white?labelColor=black" alt="Testing">
-  <img src="https://img.shields.io/badge/-Testing Library, Vitest, Playwright-grey" alt="Testing Library, Vitest, Playwright">
-
 - <img src="https://img.shields.io/badge/Workflow-white?labelColor=black" alt="Workflow">
   <img src="https://img.shields.io/badge/-Git, GitHub, Vercel-grey" alt="Git, GitHub, Vercel">
 
